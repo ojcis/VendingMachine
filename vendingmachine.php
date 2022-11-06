@@ -11,7 +11,7 @@ $products=[
     createProduct('apple',150),
     createProduct('candy',12),
     createProduct('chocolate',161),
-    createProduct('chips',302)
+    createProduct('cola',302)
 ];
 $money=0;
 while (true) {
